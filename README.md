@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24856478/README.md)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minwook's%20GitHub&fontSize=48" />
 </div>
