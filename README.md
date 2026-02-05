@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8d5dc,100:fffbf0&height=180&text=Hello,%20This%20is%20hyuniii0920's%20world!&animation=fadeIn&fontColor=815f5f&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요. '바다의 파도' 개발자 조서현입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요. '조용한 파도' 개발자 조서현입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 자기소개 내용입니다. </div> 
     </div>
     <div style="text-align: left;">
