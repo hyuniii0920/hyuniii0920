@@ -2,56 +2,71 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8d5dc,100:fffbf0&height=180&text=Hello,%20Seohyun's%20World!&animation=fadeIn&fontColor=815f5f&fontSize=40" />
 </div>
 
-<div align="center">
-  <h2> 🧑‍💻 Developer Seohyun Cho </h2>
-  <p>끊임없이 고민하고 효율적인 개발 문화를 지향하는 백엔드 개발자입니다.</p>
-</div>
+# Hello! I'm Seohyun 🌟
 
-<br>
+사용자 경험을 최우선으로 생각하며, **AI 기술과 네트워크 보안**을 기반으로 가치 있는 서비스를 만드는 개발자 조서현입니다. 
+현재는 LLM과 백엔드 기술을 활용해 복잡한 문제를 해결하는 과정에 몰입하고 있습니다.
 
-<!-- 기술 스택 섹션: 한 눈에 들어오도록 카테고리화 -->
-### 🛠 Tech Stacks
+## 📑 My Career & Activities
 
-**Languages & Frameworks**
+*   **Infonet Lab** | recruitment coordinator & Member `2026.02 - Present`
+    *   네트워크 보안 및 웹/모바일 프로그래밍 연구 활동
+*   **University of Computer Science** | 4th Year Senior
+    *   Focus: Network Security & Software Development
+
+## 🎓 Trainings & Education
+
+*   **Computer Science Major** | Senior Student `2023 - Present`
+*   **Network Security Specialization** | Advanced Coursework `2026`
+
+## 🏆 Certifications
+
+*   **SQL Developer (SQLD)**
+*   *(추가 예정인 자격증을 이곳에 작성하세요!)*
+
+## 🎬 Projects
+
+*   ⚖️ **CLAIR** | 법률 문서 분석 플랫폼 `2026`
+    *   PaddleOCR 및 LangChain, Gemini API를 활용한 계약서 검토 및 독소 조항 분석 서비스
+*   🕶️ **AR-to-XR Roadmap** | Unity & Niantic SDK `2026`
+    *   현실 세계를 확장하는 공간 컴퓨팅 경험 구축 프로젝트
+*   📝 **Voice Lecture Summarizer** | Gemini API Integration
+    *   음성 강의를 텍스트로 변환하고 AI로 핵심 내용을 요약하는 서비스
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 </p>
 
-**Frontend & Mobile**
+### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white">
 </p>
 
-**Infrastructure & Tools**
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
 
-<br>
+## 🌟 Highlights
 
-<!-- GitHub 통계 섹션: 전문성을 보여주는 핵심 요소 -->
-### 📊 GitHub Stats
+*   🏆 **Featured Projects:** CLAIR (Legal Tech Solution)
+*   🌐 **Personal Portfolio:** Under construction 🛠️.
+*   🧠 **Focus:** LLM Engineering & Backend Stability.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyuniii0920&show_icons=true&theme=radical&hide_border=true" alt="Seohyun's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuniii0920&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
+## 💌 Get in Touch!
 
-<br>
-
-<!-- 연락처 섹션 -->
-### 🧑‍💻 Contact Me
-<div align="left">
-  <a href="https://instagram.com/_hyuni_s2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.notion.so/About-Me-2fef109a9b758067a69ae6f6c1eb0fdd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
-  <a href="mailto:hyuniii0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-</div>
+*   📸 **Instagram:** [_hyuni_s2](https://instagram.com/_hyuni_s2)
+*   📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
+*   📑 **Resume:** [Notion About Me](https://www.notion.so/About-Me-2fef109a9b758067a69ae6f6c1eb0fdd)
