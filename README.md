@@ -5,7 +5,7 @@
 # Hello! I'm Seohyun 🌟
 
 사용자 경험(UX)을 최우선으로 생각하며, <br>
-**AI(LLM)**와 **프론트엔드/백엔드** 기술을 융합해 복잡한 비즈니스 문제를 해결하는 개발자 조서현입니다. 🚀<br>
+**AI(LLM)와 프론트엔드/백엔드** 기술을 융합해 복잡한 비즈니스 문제를 해결하는 개발자 조서현입니다. 🚀<br>
 웹 디자인의 감각과 탄탄한 엔지니어링 역량을 바탕으로, 데이터 기반의 실질적인 가치를 창출하는 서비스를 만듭니다.
 
 ## 📑 My Career
@@ -93,4 +93,4 @@
 
 * 📸 **Instagram:** [@_hyuni_s2](https://instagram.com/_hyuni_s2)
 * 📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
-* 📑 **Resume:** [Notion Portfolio]([https://www.notion.so/About-Me-2fef109a9b758067a69ae6f6c1eb0fdd](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd?source=copy_link))
+* 📑 **Resume:** [Notion Portfolio](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd)
