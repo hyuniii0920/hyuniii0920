@@ -93,4 +93,4 @@
 
 * 📸 **Instagram:** [@_hyuni_s2](https://instagram.com/_hyuni_s2)
 * 📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
-* 📑 **Resume:** [Notion Portfolio](https://www.notion.so/About-Me-2fef109a9b758067a69ae6f6c1eb0fdd)
+* 📑 **Resume:** [Notion Portfolio]([https://www.notion.so/About-Me-2fef109a9b758067a69ae6f6c1eb0fdd](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd?source=copy_link))
