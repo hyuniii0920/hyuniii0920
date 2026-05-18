@@ -83,6 +83,5 @@
 
 ## 💌 Get in Touch!
 
-* 📸 **Instagram:** [@_hyuni_s2](https://instagram.com/_hyuni_s2)
 * 📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
 * 📑 **Resume:** [Notion Portfolio](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd)
