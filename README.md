@@ -29,10 +29,8 @@
 
 ## 🎓 Education & Certifications
 
-* 🏫 **University of Computer Science** | 4th Year Senior `2023 - Present`
+* 🏫 **University of Computer Science** | 4th Year Senior `2022 - 8월`
 * 📝 **정보처리기사 (Engineer Information Processing)** | 필기 합격 및 실기 준비 중
-* 💾 **SQL Developer (SQLD)** | 자격 보유
-* 🔐 **Network Security Specialization** | Advanced Coursework `2026`
 
 ## 🎬 Featured Projects
 
