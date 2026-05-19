@@ -62,23 +62,43 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white">
   <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logo=Databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FFCA28?style=flat-square&logo=OpenAI&logoColor=black">
+  <br>
+  <sub>Machine Learning / Vibecoding / LLM</sub>
 </p>
 
 ### 🌐 Infrastructure & Database
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Vector%20Database-00D1B2?style=flat-square&logo=Supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C8B5?style=flat-square&logo=Netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white">
+  <br>
+  <sub>• OS 환경 설정, 권한 관리 및 시스템 트러블슈팅</sub><br>
+  <sub>• IP/DNS 구성, 네트워크 장애 해결, 연구실 인프라 관리</sub>
 </p>
 
 ### 🛠️ Tools & IDEs
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black">
+</p>
+
+### 💼 Office
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=Microsoft%20Word&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=Microsoft%20PowerPoint&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel%20(기초)-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white">
 </p>
 
 ## 💌 Get in Touch!
