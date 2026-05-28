@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/Vector%20Database-00D1B2?style=flat-square&logo=Supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C8B5?style=flat-square&logo=Netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Gabia-0054A6?style=flat-square&logo=Gabia&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white">
   <br>
   <sub>• OS 환경 설정, 권한 관리 및 시스템 트러블슈팅</sub><br>
