@@ -37,7 +37,7 @@
 * 📓 **MZC-LP** | 메가존클라우드 LMS
     * 🌐 멀티테넌트 SaaS LMS 플랫폼 개발 및 권한 기반 라우팅 최적화
 * ⚖️ **CLAIR-AI** | Gemini & LangChain 기반 AI 계약서 분석 서비스
-    * 🔍 YOLOv8/OCR 연동 비정형 데이터 추출 및 독소 조항 자동 탐지 파이프라인 구축
+    * 🔍 OCR 연동 비정형 데이터 추출 및 독소 조항 자동 탐지 파이프라인 구축
 * 🛡️ **AI Security Dashboard** | Gemini API 기반 보안 관제 서비스
     * 📡 Firebase 기반 서버리스 DB 설계 및 위험도 시각화 실시간 렌더링 구현
 * 🎨 **ArtBusan** | AR 기반 전시 정보 통합 가이드
