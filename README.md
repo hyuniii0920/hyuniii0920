@@ -3,7 +3,7 @@
 </div>
 
 # Hello! I'm Seohyun 🌟
-portfolio site: https://hyuni.site
+**portfolio site: https://hyuni.site**
 
 사용자 경험(UX)을 최우선으로 생각하며, <br>
 **AI(LLM)와 프론트엔드 & 백엔드** 기술을 융합해 복잡한 비즈니스 문제를 해결하는 개발자 조서현입니다. 🚀<br>
