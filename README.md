@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Vector%20Database-00D1B2?style=flat-square&logo=Supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C8B5?style=flat-square&logo=Netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=Render&logoColor=white">
   <img src="https://img.shields.io/badge/Gabia-0054A6?style=flat-square&logo=Gabia&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white">
   <br>
@@ -93,6 +93,8 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  
 </p>
 
 ### 💼 Office
