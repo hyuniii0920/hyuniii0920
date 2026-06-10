@@ -30,7 +30,7 @@
 
 ## 🎓 Education & Certifications
 
-* 🏫 **University of Computer Science** | 4th Year Senior `2022 - 8월`
+* 🏫 **University of Computer Science** | 4th Year Senior `2022 - 2027`
 * 📝 **정보처리기사 (Engineer Information Processing)** | 필기 합격 및 실기 준비 중
 
 ## 🎬 Featured Projects
