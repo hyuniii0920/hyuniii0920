@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8d5dc,100:fffbf0&height=180&text=Hello,%20Seohyun's%20World!&animation=fadeIn&fontColor=815f5f&fontSize=40" />
+</div>
+
+# Hello! I'm Seohyun 🌟
+**portfolio site: https://hyuni.site**
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D5DC,100:FFF8ED&height=190&section=header&text=Seohyun%20Cho&fontSize=44&fontColor=815F5F&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%26%20UX%2FUI%20Designer&descAlignY=58&descSize=17" />
 
