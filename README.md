@@ -5,14 +5,9 @@
 
 # Hello! I'm Seohyun 🌟
 **portfolio site: https://hyuni.site**
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D5DC,100:FFF8ED&height=190&section=header&text=Seohyun%20Cho&fontSize=44&fontColor=815F5F&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%26%20UX%2FUI%20Designer&descAlignY=58&descSize=17" />
+* 📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
+* 📑 **Resume:** [Notion Portfolio](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd)
 
-  <p>
-    <a href="https://hyuni.site"><img src="https://img.shields.io/badge/Portfolio-hyuni.site-815F5F?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    <a href="mailto:hyuniii0920@gmail.com"><img src="https://img.shields.io/badge/Email-hyuniii0920%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
 
 ## About me
 
