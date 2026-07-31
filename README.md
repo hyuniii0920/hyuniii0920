@@ -12,11 +12,7 @@
 ## 📑 My Career
 
 * 🏢 **메가존클라우드(주) · ATU Data & Design Whole 팀** | 프론트엔드 및 UX/UI 개발 인턴 `2025.11 - 2026.01`
-    * 💻 B2B/B2C 멀티테넌트 SaaS LMS 프론트엔드 개발 및 6개 직급 통합 라우팅 설계
-    * 🛠 테넌트별 브랜딩·기능 플래그, JWT Refresh Queue 패턴, React Query Key Factory 적용
 * 🏢 **제로웹(IT)** | 프론트엔드 개발 및 UX/UI 디자인 인턴 `2024.07 - 2024.08`
-    * 📍 Care Bell 위치 기반 노약자 케어 서비스 기획, Figma 디자인, HTML/CSS/JS 퍼블리싱 전 과정 단독 수행
-    * 🛠 운영 서비스 UI 오류·브라우저 호환성 개선 및 Design-to-Code 협업
 
 ## 🏆 Awards & Honors
 
@@ -26,15 +22,10 @@
   
 ## 🌀 Activities & Leadership
 
-* 🚀 **DIVE 2026 - DX Challenge 해커톤** | 본선 진출 `2026.07`
-    * BNK부산은행 동백전 결제 데이터 활용팀
+* 🚀 **DIVE 2026 - DX Challenge 해커톤 (BNK부산은행 동백전 결제 데이터 활용팀)** | 본선 진출 `2026.07`
 * 🧪 **Infonet Lab** | 연구원 및 랩장 `2022.03 - 2026.08`
-    * 📋 연구실 운영 체계 재설계 및 신규 인원 선발, 커리큘럼(NW 보안, DB, Web) 설계
-    * 💰 학교 사업단 협의를 통한 인프라 예산 확보 및 주간 기술 세미나 운영
 * 🧠 **LG Aimers 7기** | 산업 데이터 기반 AI 전문가 과정 수료 `2025.07 - 2025.08`
-    * 📊 스마트 팩토리 품질 예측 해커톤 참여 및 시계열 데이터 기반 수요 예측 모델 개발 (점수: 0.69486)
 * 🤝 **Project 부산 IT 연합동아리** | 운영진 `2024 - Present`
-    * 🛰 위치 기반 임베디드 솔루션 개발 (디자인&아이디어 부문 수상)
 
 ## 🎓 Education & Certifications
 
@@ -44,17 +35,11 @@
 ## 🎬 Featured Projects
 
 * 📓 **Growbase (LMS)** | B2B/B2C 멀티테넌트 SaaS 학습관리시스템
-    * 🌐 hostname 기반 테넌트 분리, B2B/B2C UX와 6개 직급 라우팅을 단일 프론트엔드에서 통합 구현
 * ⚖️ **CLAIR** | Gemini & LangChain 기반 AI 계약서 분석 서비스
-    * 🔍 OCR·LLM·RAG 파이프라인으로 위험 조항, Safety Score, 근거 조항을 제공하는 한국어 계약서 분석 플랫폼
 * 🎤 **PIYAK (dansynkpop)** | AI 기반 K-pop 안무 연습 모바일 앱
-    * 🕺 SAM2 비디오 세그멘테이션으로 멤버별 마스크 영상을 생성하고, Django REST·Cloudflare R2·PeerTube 연동 구현
 * 🎨 **ArtBusan** | QR·AR 기반 부산 전시 안내 Android 앱
-    * 📱 Offline-First 구조와 4개국어 런타임 전환, QR·AR 작품 정보 안내 기능 구현
 * 🛡️ **SAI (Smishing Prevention AI)** | AI 기반 스미싱 예방 서비스
-    * 📡 Android·Web 공통 데이터 흐름과 Firebase 기반 인증·데이터 구조, 분석 결과 시각화 화면 구현
 * 🌺 **동백웨이 (DongbaekWay)** | 동백전 데이터 기반 부산 통합 관광 플랫폼
-    * 🗺️ PM·전체 UX/UI·데이터 파이프라인·FastAPI MCP를 맡아 탐색부터 예약·결제·기록까지의 여행 경험 설계
 
 ## 🛠️ Tech Stack
 
