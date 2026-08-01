@@ -10,13 +10,14 @@
     />
   </a>
 
-  <br /><br />
+  <br />
 
 
   <a href="https://hyuni.site">
   <img
     src="https://img.shields.io/badge/PORTFOLIO%20%E2%86%92-hyuni.site-E9A0AA?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio"
+    height="40"
   />
 </a>
 
