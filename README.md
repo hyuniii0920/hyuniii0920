@@ -101,3 +101,5 @@
 
 * 📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
 * 📑 **Resume:** [Notion Portfolio](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuniii0920&count_bg=%23F7D9DC&title_bg=%23815F5F&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
