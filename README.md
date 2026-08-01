@@ -10,7 +10,7 @@
     />
   </a>
 
-  <br /><br /><br />
+  <br />
 
 
   <a href="https://hyuni.site">
@@ -20,7 +20,7 @@
   />
 </a>
 
-<br />
+<br /><br />
 
   <a href="mailto:hyuniii0920@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
