@@ -102,5 +102,5 @@
 * 📧 **Email:** [hyuniii0920@gmail.com](mailto:hyuniii0920@gmail.com)
 * 📑 **Resume:** [Notion Portfolio](https://www.notion.so/SEOHYUN-CHO-658f109a9b758248804301d9b82ebddd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={깃헙 이름(string)})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hyuniii0920(string)})](https://github.com/anuraghazra/github-readme-stats)
 
