@@ -13,8 +13,11 @@
   <br />
 
   <a href="https://hyuni.site">
-    <img src="https://img.shields.io/badge/Portfolio-hyuni.site-815F5F?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO%20%E2%86%92-hyuni.site-E9A0AA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
   <a href="mailto:hyuniii0920@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
