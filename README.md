@@ -134,8 +134,6 @@
   </a>
 
   <br /><br />
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuniii0920&count_bg=%23F7D9DC&title_bg=%23815F5F&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ## 👋 About Me
@@ -208,13 +206,3 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hyuniii0920&show_icons=true&hide_border=true&title_color=815F5F&icon_color=D69A9F&text_color=5A4A4C&bg_color=FFFDF9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuniii0920&layout=compact&hide_border=true&title_color=815F5F&text_color=5A4A4C&bg_color=FFFDF9" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8d5dc,100:fffbf0&height=110&section=footer" />
-</div>
